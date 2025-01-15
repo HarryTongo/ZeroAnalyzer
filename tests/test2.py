@@ -5,7 +5,7 @@ python 调用 0.zone api（信息系统）示例
 '''
 
 data = {
-    "query": "company=中国电子信息产业集团有限公司",
+    "query": "company=北京大学",
     "query_type": "domain",
     "page": 1,
     "pagesize": 100,

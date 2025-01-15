@@ -67,7 +67,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # with open("data/中国电子信息产业集团有限公司/info_system.json", 'r', encoding="utf-8") as f:
+    # with open("data/北京大学/info_system.json", 'r', encoding="utf-8") as f:
     #     context = f.read()
     #     context = json.loads(context)
     #     context_size = context['data']
